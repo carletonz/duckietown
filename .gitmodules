@@ -1,3 +1,6 @@
 [submodule "gym-duckietown"]
 	path = gym-duckietown
 	url = https://github.com/duckietown/gym-duckietown.git
+[submodule "aido3"]
+	path = aido3
+	url = https://github.com/niksaz/aido3.git
